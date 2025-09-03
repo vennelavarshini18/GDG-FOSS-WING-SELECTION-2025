@@ -14,7 +14,7 @@
 
 * Data Science & Machine Learning: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch,  Transformers.
 
-* NLP & GenAI: LangChain, NLTK, FuzzyWuzzy.
+* NLP & GenAI: LangChain, RAG, NLTK, FuzzyWuzzy.
 
 * Version Control & Tools: Git, GitHub
 
